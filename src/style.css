@@ -54,6 +54,10 @@ main {
 
 .weather-app-city {
   margin: 0;
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: 400px;
+  font-style: normal;
 }
 
 .weather-app-details {
